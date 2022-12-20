@@ -1,0 +1,2 @@
+# qnd30_app_dev
+WEBAPP+EDUCATIONAL-PLATFORM 
