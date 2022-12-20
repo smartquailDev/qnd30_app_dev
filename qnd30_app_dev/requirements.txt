@@ -48,3 +48,4 @@ braintree
 weasyprint
 django-memcache-status
 django-braces
+memcache
